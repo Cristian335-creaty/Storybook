@@ -7,7 +7,7 @@ Cada escena tiene texto narrativo, ilustración original, narración con voz sin
 Todo se ejecuta **en local**, sin APIs de pago ni servicios de inferencia remotos.
 
 **Integrantes:** Andres Wilches · Cristian Gil · **Docente:** Diego Vela  
-**Video de demostración:** [enlace al video]
+**Video de demostración:** https://youtu.be/4XugUNQ1aQs
 
 ---
 
