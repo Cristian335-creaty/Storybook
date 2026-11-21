@@ -1,0 +1,101 @@
+{
+  "idea": "Un robot de limpieza en una estación espacial encuentra una planta",
+  "genre": "ciencia ficción",
+  "title": "El Robot y la Plantita",
+  "setting": "Una estación espacial abandonada lleno de viejos equipos y rascacielos metálicos.",
+  "style": "digital painting, sci-fi concept art, cool neon lighting",
+  "characters": [
+    {
+      "name": "RoboBot",
+      "role": "Robot de limpieza",
+      "visual": "english visual traits: robot de tamaño mediano, armadura negra y blanca, gafas de protección, manchas de suciedad en su superficie.",
+      "personality": "Razón y disciplina, siempre cumpliendo con su programa de limpieza."
+    },
+    {
+      "name": "Planta",
+      "role": "Planta desprendida de su lugar",
+      "visual": "english visual traits: planta de hojas verdes y frondosa, con un poco de polvo y manchas de suciedad en su exterior.",
+      "personality": "Vida, resistencia y adaptación, aún con vida, aunque sin un hogar."
+    }
+  ],
+  "scenes": [
+    {
+      "index": 1,
+      "title": "El Robot Arranca la Limpieza",
+      "narration": "El Robot Bot despierta con un débil susurro de sus propias motorizadas. Su sensor óptico detecta la suciedad acumulada, mostrándole manchas de polvo y suciedad en el suelo y las paredes. Se detiene frente a la planta, que no parece afectada por la acumulación de suciedad, y la mira con curiosidad. La suciedad resplandece contra su superficie verde y brillante, mientras él registra cada detalle del lugar.",
+      "image_prompt": "robot de limpieza en un entorno vacío",
+      "ambience": "suspenso",
+      "sfx_prompt": "sonido de un sensor óptico detectando suciedad",
+      "characters": [
+        "RoboBot"
+      ],
+      "image_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-201157_un-robot-de-limpieza-en-una-es\\escena_1.png",
+      "voice_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-201157_un-robot-de-limpieza-en-una-es\\voz_1.wav",
+      "sfx_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-201157_un-robot-de-limpieza-en-una-es\\ambiente_1.wav",
+      "errors": []
+    },
+    {
+      "index": 2,
+      "title": "Descubrimiento en la Cámara",
+      "narration": "... RoboBot, con sus sensores ópticos y táctiles, registra meticuloso cada mancha de suciedad. El suelo y las paredes de la estación están cubiertos de una capa fina de polvo y grasa. La planta, por su parte, permanece impecable, a excepción de las manchas de polvo y suciedad. RoboBot se acerca aún más, notando un extraño aroma a descomposición que impregna el ambiente. La planta no parece afectada, manteniendo su aspecto de hojas verdes brillantes y frondosa. RoboBot, intrigado, registra cada detalle del pequeño cristal rojo brillante que descubrió anteriormente.",
+      "image_prompt": "robot cerca de una cámara de almacenamiento con un cristal rojo",
+      "ambience": "espacio",
+      "sfx_prompt": "ruido de movimiento y zumbido",
+      "characters": [
+        "RoboBot"
+      ],
+      "image_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-201157_un-robot-de-limpieza-en-una-es\\escena_2.png",
+      "voice_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-201157_un-robot-de-limpieza-en-una-es\\voz_2.wav",
+      "sfx_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-201157_un-robot-de-limpieza-en-una-es\\ambiente_2.wav",
+      "errors": []
+    },
+    {
+      "index": 3,
+      "title": "La Plantita Viaja",
+      "narration": "... RoboBot, tomando la planta entre sus garras de metal, la empuja con fuerza por las escaleras de la estación. El metal crujiente y el ruido de su giro de metal contra metal llenan el vacío de la estación. La planta, sin embargo, muestra un leve movimiento de sus hojas, como si buscara refugio de la intemperie. La suciedad arrastrada por RoboBot, mezclada con el polvo de la estación, crea una pequeña ola de grasa que fluye a través de sus garras. RoboBot, ahora más inquieto, lanza una rápida mirada al cristal rojo brillante, aún sin entender el significado de su descubrimiento. La planta, a su vez, siente una presión constante, pero su resistencia la mantiene firme, incluso en medio de esta nueva adversidad.",
+      "image_prompt": "robot y planta en el exterior de la estación",
+      "ambience": "suspenso",
+      "sfx_prompt": "ruido de una rampa móvil",
+      "characters": [
+        "RoboBot",
+        "Planta"
+      ],
+      "image_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-201157_un-robot-de-limpieza-en-una-es\\escena_3.png",
+      "voice_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-201157_un-robot-de-limpieza-en-una-es\\voz_3.wav",
+      "sfx_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-201157_un-robot-de-limpieza-en-una-es\\ambiente_3.wav",
+      "errors": []
+    },
+    {
+      "index": 4,
+      "title": "Decisión del Robot",
+      "narration": "... RoboBot, tomando una decisión. El metal fruncido de su rostro muestra una mezcla de confusión y determinación. La planta, mientras mantiene sus hojas en movimiento, parece no entender las intenciones del robot. Ambos observan al cristal rojo brillante de la estación, una fuente de luz y color en un entorno de metal y grasa. La plantilla, con sus manchas de suciedad y polvo, parece un oasis de vida en medio del caos de la estación. RoboBot, ahora más inquieto, toma un respiración profunda antes de tomar su decisión. La planta, consciente de la presión constante, siente su resistencia a la espera, aunque cada vez más débil, mientras RoboBot, inquieto, toma una determinación firme.",
+      "image_prompt": "robot mirando a la planta con un resplandor de luz",
+      "ambience": "magia",
+      "sfx_prompt": "ruido de una botella de cristal que se rompe",
+      "characters": [
+        "RoboBot"
+      ],
+      "image_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-201157_un-robot-de-limpieza-en-una-es\\escena_4.png",
+      "voice_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-201157_un-robot-de-limpieza-en-una-es\\voz_4.wav",
+      "sfx_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-201157_un-robot-de-limpieza-en-una-es\\ambiente_4.wav",
+      "errors": []
+    },
+    {
+      "index": 5,
+      "title": "El Cambio de la Estación",
+      "narration": "... El rostro de RoboBot se contrae en una mezcla de asombro y alegría mientras observa cómo las manchas de suciedad se van desvaneciendo de los viejos equipos y rascacielos, transformando el metal frío en un tono más cálido y acogedor. La planta, que en su hoja inmóvil, parece mirar a RoboBot con un brillo de reconocimiento y esperanza. El susurro de la vegetación crece con la fuerza de la limpieza, un eco de vida que RoboBot no recordaba odiar. La estación, ahora, parece respirar con una nueva respiración, un aliento que RoboBot, en silencio, asiente y acepta. La planta, con cada hoja que empieza a florecer, se siente cada vez más aliviada, un pequeño oasis de esperanza en medio de un mundo que parece haber sido abandonado. La luz del cristal rojo sigue brillando, una constante que ahora parece brillar con una nueva luz, iluminando el camino de los dos como los primeros rayos de sol en la oscuridad del espacio.",
+      "image_prompt": "estación espacial limpia con plantas floreciendo",
+      "ambience": "tormenta",
+      "sfx_prompt": "sonido de plántulas que crecen",
+      "characters": [
+        "RoboBot",
+        "Planta"
+      ],
+      "image_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-201157_un-robot-de-limpieza-en-una-es\\escena_5.png",
+      "voice_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-201157_un-robot-de-limpieza-en-una-es\\voz_5.wav",
+      "sfx_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-201157_un-robot-de-limpieza-en-una-es\\ambiente_5.wav",
+      "errors": []
+    }
+  ],
+  "reference_image": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-201157_un-robot-de-limpieza-en-una-es\\referencia_protagonista.png"
+}

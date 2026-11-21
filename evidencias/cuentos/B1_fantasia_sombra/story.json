@@ -1,0 +1,112 @@
+{
+  "idea": "Una niña descubre que su sombra cobra vida por las noches",
+  "genre": "fantasía",
+  "title": "La Sombra Que Se Transforma",
+  "setting": "Un pequeño bosque de sauces y robles en un jardín privado",
+  "style": "storybook watercolor illustration, soft magical light, vibrant colors",
+  "characters": [
+    {
+      "name": "Luna",
+      "role": "protagonista",
+      "visual": "girl, 8 years old, blonde, blue eyes, wears a flowy white tunic with golden embroidery, carrying a small lantern with a fairy-like face",
+      "personality": "curious and brave"
+    },
+    {
+      "name": "Abuela",
+      "role": "guardian",
+      "visual": "old woman, grey hair, wears a simple dark dress, carries a small bag with a small mirror",
+      "personality": "wise and caring"
+    },
+    {
+      "name": "El Silencioso",
+      "role": "mysterious",
+      "visual": "man, 30s, tall and muscular, wears a dark cloak, has short dark hair, his eyes are always hidden by the shadows of his cloak",
+      "personality": "mysterious and aloof"
+    }
+  ],
+  "scenes": [
+    {
+      "index": 1,
+      "title": "El descubrimiento de Luna",
+      "narration": "Luna mantenía la pequeña lámpara encendida, mientras susurro el viento agitaba las hojas de los sauces y robles. La sombra de la niña parecía ser capaz de moverse por sí sola, un ritmo frenético que no cesaba. Luna, fascinada, sintió el corazón latirle con fuerza, mientras su mirada perdida se fijaba en el juego de sombras y luces que formaba su figura en el sendero de tierra. A su alrededor, el suelo bajo los pies de Luna temblaba levemente, pero el bosque parecía inmutable. Un ligero susurro de la brisa fue el único eco en medio del silencio.",
+      "image_prompt": "girl holding lantern in moonlit forest",
+      "ambience": "suspenso",
+      "sfx_prompt": "rustling leaves, soft footsteps",
+      "characters": [
+        "Luna",
+        "Abuela"
+      ],
+      "image_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-195532_una-ni-a-descubre-que-su-sombr\\escena_1.png",
+      "voice_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-195532_una-ni-a-descubre-que-su-sombr\\voz_1.wav",
+      "sfx_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-195532_una-ni-a-descubre-que-su-sombr\\ambiente_1.wav",
+      "errors": []
+    },
+    {
+      "index": 2,
+      "title": "La primera vez en el bosque",
+      "narration": "La sabia Abuela sonrió con dulzura, extendiendo su mano hacia el bosque. 'Estas chicas tienen una curiosidad indomable', susurró, 'vamos a explorar, cuidado con los senderos de tierra que parecen moverse'. El Silencioso se mantuvo en silencio, sus ojos siempre ocultos por las sombras de su capa. Luna y su abuela avanzaron con el corazón latiendo en sus corazones. El bosque parecía más silencioso aún, los suelos bajo sus pies temblaron con una suave vibración que apenas se percibía. Sintieron una presencia extraña, un hilo de viento que rozaba su piel y una brisa que llevaba consigo un leve aroma a hierba y hojas secas. A medida que avanzaban, el silencio se hacía más profundo, casi como si el bosque respirara junto a ellos.",
+      "image_prompt": "elderly woman and girl in forest",
+      "ambience": "bosque",
+      "sfx_prompt": "rustling leaves, bird chirping",
+      "characters": [
+        "Luna",
+        "Abuela",
+        "El Silencioso"
+      ],
+      "image_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-195532_una-ni-a-descubre-que-su-sombr\\escena_2.png",
+      "voice_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-195532_una-ni-a-descubre-que-su-sombr\\voz_2.wav",
+      "sfx_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-195532_una-ni-a-descubre-que-su-sombr\\ambiente_2.wav",
+      "errors": []
+    },
+    {
+      "index": 3,
+      "title": "El consejo de Abuela",
+      "narration": "Los ojos de Luna brillaron mientras veía luces danzar sobre los sauces y los robles, cada hoja parecía un farol. Sintió la presencia de El Silencioso más cerca, susurró con voz baja y oculta, 'Estos son los guardianes del bosque, cuidadosamente resguardados'. Luna y Abuela exploraron entre los sauces y robles, el suelo bajo sus pies vibraba con una suave frecuencia. El aroma a flores inmaduras agitaba su cabello, mientras sentían una presencia extraña, una brisa que parecía ser un susurro de la naturaleza. Luna sintió una emoción intensa al observar cómo la sombra de los árboles parecía moverse, casi como si los mismos árboles tuvieran vida propia. Abuela le sonrió con dulzura, 'Es una verdadera aventura, pero debemos ser siempre cautos'.",
+      "image_prompt": "elderly woman talking to girl in forest",
+      "ambience": "suspenso",
+      "sfx_prompt": "rustling leaves, crickets chirping",
+      "characters": [
+        "Luna",
+        "Abuela"
+      ],
+      "image_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-195532_una-ni-a-descubre-que-su-sombr\\escena_3.png",
+      "voice_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-195532_una-ni-a-descubre-que-su-sombr\\voz_3.wav",
+      "sfx_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-195532_una-ni-a-descubre-que-su-sombr\\ambiente_3.wav",
+      "errors": []
+    },
+    {
+      "index": 4,
+      "title": "El encuentro con los seres de sombra",
+      "narration": "Luna y Abuela exploraron entre los sauces y robles de un susurro de la naturaleza. El aroma a flores inmaduras agitaba su cabello. Luna sintió una emoción intensa al observar cómo la sombra de los árboles parecía moverse, casi como si los mismos árboles tuvieran vida propia. El Silencioso se acercaba, susurrando con voz baja y oculta, 'Estos son los guardianes del bosque, cuidadosamente resguardados'. Luna notó una presencia extraña, una brisa que parecía ser un susurro de la naturaleza. La joven observó con curiosidad cómo la sombra de los árboles parecía moverse, casi como si los mismos árboles tuvieran vida propia. Luna y Abuela continuaron explorando con cautela, conscientes de la presencia vigilante del Silencioso.",
+      "image_prompt": "girl facing shadow creatures in dark forest",
+      "ambience": "noche",
+      "sfx_prompt": "crickets chirping, rustling leaves",
+      "characters": [
+        "Luna",
+        "El Silencioso"
+      ],
+      "image_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-195532_una-ni-a-descubre-que-su-sombr\\escena_4.png",
+      "voice_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-195532_una-ni-a-descubre-que-su-sombr\\voz_4.wav",
+      "sfx_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-195532_una-ni-a-descubre-que-su-sombr\\ambiente_4.wav",
+      "errors": []
+    },
+    {
+      "index": 5,
+      "title": "Luna aprende a controlar su sombra",
+      "narration": "Luna observó atentamente cómo la sombra de los árboles parecía moverse con vida propia, creando formas y siluetas que se desvanecían en el aire. La joven notó una brisa que parecía ser la respiración de la naturaleza. Abuela, con su sabiduría, se acercó a Luna y dijo, 'El Silencioso nos vigila, pero también cuida. Ve, Luna, usa tu habilidad para ayudar a los seres de sombra a encontrar su lugar en el mundo'. Luna sintió una mezcla de emoción y tristeza, comprendiendo que su poder podía ayudar a las sombras a sentirse más parte del bosque. Ambas exploradoras se adentraron más en el bosque, conscientes de que la misión de Luna era aún más importante, mientras el Silencioso seguía vigilando desde las sombras.",
+      "image_prompt": "girl standing next to shadow creatures in forest",
+      "ambience": "suspenso",
+      "sfx_prompt": "rustling leaves, wind blowing",
+      "characters": [
+        "Luna",
+        "Abuela",
+        "El Silencioso"
+      ],
+      "image_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-195532_una-ni-a-descubre-que-su-sombr\\escena_5.png",
+      "voice_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-195532_una-ni-a-descubre-que-su-sombr\\voz_5.wav",
+      "sfx_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-195532_una-ni-a-descubre-que-su-sombr\\ambiente_5.wav",
+      "errors": []
+    }
+  ],
+  "reference_image": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-195532_una-ni-a-descubre-que-su-sombr\\referencia_protagonista.png"
+}

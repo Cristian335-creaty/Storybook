@@ -1,0 +1,93 @@
+{
+  "idea": "Un faro abandonado enciende su luz cada noche sin que nadie suba",
+  "genre": "terror",
+  "title": "El Faro Sin Testigos",
+  "setting": "Un viejo faro abandonado en una isla desierta en el océano.",
+  "style": "dark gothic illustration, muted desaturated colors, dramatic shadows, eerie atmosphere",
+  "characters": [
+    {
+      "name": "Alfredo",
+      "role": "El único sobreviviente del faro",
+      "visual": "elder, silver hair, old clothes, a lantern, keys around his neck",
+      "personality": "Desesperado y sin recursos para abandonar el faro"
+    }
+  ],
+  "scenes": [
+    {
+      "index": 1,
+      "title": "El Faro se ilumina sin vida",
+      "narration": "El faro, que había estado en sombras durante meses, se ilumina de repente. Su luz se filtra a través de las rendijas en las mallas de hierro, creando sombras que danzan en las paredes de piedra. Alfredo se siente inquieto, su corazón bombea con fuerza.",
+      "image_prompt": "old lighthouse, flickering light, dark shadows",
+      "ambience": "suspenso",
+      "sfx_prompt": "soft ticking of a clock",
+      "characters": [
+        "Alfredo"
+      ],
+      "image_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-200103_un-faro-abandonado-enciende-su\\escena_1.png",
+      "voice_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-200103_un-faro-abandonado-enciende-su\\voz_1.wav",
+      "sfx_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-200103_un-faro-abandonado-enciende-su\\ambiente_1.wav",
+      "errors": []
+    },
+    {
+      "index": 2,
+      "title": "Alfredo sopesa su próxima acción",
+      "narration": "La luz del faro brillaba con una tenue intensidad, iluminando el oscuro faro y creando sombras que danzaban en las paredes de piedra. Alfredo, que había estado esperando pacientemente que llegara el final de su encierro, sintió un escalofrío al acordarse de su decisión. El faro no solo era una fuente de luz, sino también su única conexión con el mundo exterior. Si lo apagaba, sería como enterrarse por completo en su propia soledad. El tiempo pasaba lentamente en ese lugar, cada segundo parecía una eternidad. La decisión se convirtió en un peso que Alfredo no podía soportar.",
+      "image_prompt": "elder standing, old lantern, keys in hand",
+      "ambience": "cueva",
+      "sfx_prompt": "whispering wind",
+      "characters": [
+        "Alfredo"
+      ],
+      "image_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-200103_un-faro-abandonado-enciende-su\\escena_2.png",
+      "voice_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-200103_un-faro-abandonado-enciende-su\\voz_2.wav",
+      "sfx_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-200103_un-faro-abandonado-enciende-su\\ambiente_2.wav",
+      "errors": []
+    },
+    {
+      "index": 3,
+      "title": "El ser surge del miedo",
+      "narration": "La oscuridad parecía adentrarse en el faro con cada paso que Alfredo daba. El aire estaba cargado de un mal presagio, como si los espíritus del mar y la isla mismo se hubieran dado cuenta de su presencia. Un frío helado recorrió su cuerpo al percatarse de que no era solo el viento. Alfredo sintió que una presencia estaba ahí, pero no podía verla. Solo percibía un vago movimiento en el extremo del faro, una sombra que se movía sin ruido, rodeando el faro como si fuera una sombra de la noche misma. Alfredo, con los ojos fijos en el lugar donde se movía la sombra, perdió el equilibrio y cayó al suelo. Su corazón latía con fuerza, pero no era por miedo; era por el temor de que aquella presencia fuera real.",
+      "image_prompt": "dark figure looming, old lighthouse",
+      "ambience": "mar",
+      "sfx_prompt": "rustling leaves",
+      "characters": [
+        "Alfredo"
+      ],
+      "image_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-200103_un-faro-abandonado-enciende-su\\escena_3.png",
+      "voice_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-200103_un-faro-abandonado-enciende-su\\voz_3.wav",
+      "sfx_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-200103_un-faro-abandonado-enciende-su\\ambiente_3.wav",
+      "errors": []
+    },
+    {
+      "index": 4,
+      "title": "Alfredo enfrenta al ser",
+      "narration": "Alfredo intenta mantener la calma mientras mira hacia el vacío, esperando encontrar alguna señal que le indique a quién puede estar viendo. Su cuerpo temblaba y su mente estaba en un caos. El silencio se tornó más pesado que una roca, cada segundo que pasaba parecía un siglo eterno. A pesar del miedo, un destello de luz aislado y distante atrajo su atención, haciéndolo girar rápidamente hacia la dirección de la fuente. Pero lo que vio allí apenas lo dejó inmóvil en su lugar. Una figura tallada en piedra, una mano de piedra que apuntaba hacia él, como una promesa implacable de vigilancia perpetua. La figura no habló, pero su mirada lo maldijo como el único testigo de un pasado que nunca podría olvidar.",
+      "image_prompt": "elder standing, shadowy figure in front",
+      "ambience": "suspenso",
+      "sfx_prompt": "soft breathing",
+      "characters": [
+        "Alfredo"
+      ],
+      "image_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-200103_un-faro-abandonado-enciende-su\\escena_4.png",
+      "voice_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-200103_un-faro-abandonado-enciende-su\\voz_4.wav",
+      "sfx_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-200103_un-faro-abandonado-enciende-su\\ambiente_4.wav",
+      "errors": []
+    },
+    {
+      "index": 5,
+      "title": "Alfredo toma la decisión de apagar el faro",
+      "narration": "Alfredo toma la decisión de apagar el faro. Sin embargo, antes de hacerlo, advierte de la desolación del mundo. Alfredo sabe que su vida se acabó, pero escribe una nota para sus posibles, prometiendo que nadie más debería sufrir como él.",
+      "image_prompt": "elder standing, old lantern, note on the ground",
+      "ambience": "mar",
+      "sfx_prompt": "clock ticking",
+      "characters": [
+        "Alfredo"
+      ],
+      "image_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-200103_un-faro-abandonado-enciende-su\\escena_5.png",
+      "voice_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-200103_un-faro-abandonado-enciende-su\\voz_5.wav",
+      "sfx_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-200103_un-faro-abandonado-enciende-su\\ambiente_5.wav",
+      "errors": []
+    }
+  ],
+  "reference_image": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-200103_un-faro-abandonado-enciende-su\\referencia_protagonista.png"
+}

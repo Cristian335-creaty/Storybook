@@ -1,0 +1,64 @@
+# Configuración de StoryBook. Todos los modelos se ejecutan en local.
+# Perfil pensado para GPU NVIDIA de 4-6 GB de VRAM.
+
+mock: false            # true = sin modelos (texto/imagen/voz simulados). Útil para probar la interfaz.
+outputs_dir: outputs
+
+llm:
+  backend: ollama
+  host: http://localhost:11434
+  model: qwen2.5:3b            # alternativa a comparar: llama3.2:3b
+  temperature: 0.8
+  strategy: biblia_y_escenas   # biblia_y_escenas (2 llamadas) | una_llamada
+  max_retries: 3
+  num_ctx: 8192               # contexto amplio para que los reintentos no se trunquen
+  timeout: 300
+  unload_after: true           # libera la VRAM del LLM antes de generar imágenes
+
+image:
+  preset: consistente          # rapido | consistente
+  seed: 1234
+  seed_strategy: variable      # variable (semilla + índice: composición distinta por escena) | fija (misma semilla: tiende a repetir la imagen)
+  cpu_offload: true            # necesario con 4 GB de VRAM
+  negative_prompt: >-
+    blurry, low quality, deformed, extra limbs, bad anatomy, text, watermark,
+    signature, nsfw, gore, photo, realistic, plain background, studio backdrop
+  presets:
+    rapido:                    # Config A: solo prompt + semilla
+      model_id: stabilityai/sd-turbo
+      steps: 4
+      guidance: 0.0
+      width: 512
+      height: 512
+      lcm_lora: null
+      ip_adapter: false
+    consistente:               # Config B: SD1.5 + LCM-LoRA + IP-Adapter con retrato de referencia
+      model_id: Lykon/dreamshaper-8
+      steps: 6
+      guidance: 1.5
+      width: 512
+      height: 512
+      lcm_lora: latent-consistency/lcm-lora-sdv1-5
+      ip_adapter: true
+      ip_adapter_repo: h94/IP-Adapter
+      ip_adapter_weight: ip-adapter_sd15.bin
+      ip_adapter_scale: 0.35       # 0.55 copiaba el retrato en las 5 escenas
+  style_by_genre:
+    fantasía: storybook watercolor illustration, soft magical light, vibrant colors
+    terror: dark gothic illustration, muted desaturated colors, dramatic shadows, eerie atmosphere
+    misterio: noir ink illustration, foggy, moody lighting, limited palette
+    aventura: adventure comic illustration, vivid colors, dynamic composition
+    ciencia ficción: digital painting, sci-fi concept art, cool neon lighting
+    infantil: children's picture book illustration, soft pastel colors, cute rounded shapes
+    default: storybook illustration, painterly, consistent style
+
+tts:
+  engine: piper                # piper | pyttsx3
+  voice_path: models/piper/es_MX-claude-high.onnx
+  length_scale: 1.1            # >1 = más lento (mejor para narración)
+
+sfx:
+  engine: procedural           # procedural (síntesis propia) | audioldm
+  duration: 12                 # segundos (se reproduce en bucle)
+  sample_rate: 22050
+  audioldm_model: cvssp/audioldm-s-full-v2

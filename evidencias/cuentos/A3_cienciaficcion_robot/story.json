@@ -1,0 +1,93 @@
+{
+  "idea": "Un robot de limpieza en una estación espacial encuentra una planta",
+  "genre": "ciencia ficción",
+  "title": "El Robot y la Plantita",
+  "setting": "Space Station in Space Station",
+  "style": "digital painting, sci-fi concept art, cool neon lighting",
+  "characters": [
+    {
+      "name": "RoboLimpieza",
+      "role": "Robot de limpieza en una estación espacial",
+      "visual": "Un robot de color azul con brazos extensibles y patas de metal",
+      "personality": "RoboLimpieza es un robot muy funcional y eficiente, siempre trabajando en su tarea diaria."
+    }
+  ],
+  "scenes": [
+    {
+      "index": 1,
+      "title": "Descubrimiento",
+      "narration": "RoboLimpieza, exhausto tras un largo turno de limpieza, ve algo extraño crecer a su lado. No es una planta común, es una pequeña planta robusta de color verde brillante que parece desconocida. El robot percibe suavemente el aire, detectando un olor que resulta fresco y agradable. Siente una leve vibración alrededor de la planta, como si fuese el eco de pequeños movimientos. No escucha nada, pero observa con atención, su sistema de visión digital estudiando cuidadosamente el crecimiento de la planta. La visión de RoboLimpieza revela que la planta crece en forma de flor y hojas, y se nota una vida que no tiene en otros seres vivos conocidos. Es como una nueva experiencia para el robot, llenando su estación espacial con un misterio desconocido.",
+      "image_prompt": "Robot de limpieza y planta en estación espacial",
+      "ambience": "bosque",
+      "sfx_prompt": "Ruido de hojas moviéndose, viento susurrante",
+      "characters": [
+        "RoboLimpieza"
+      ],
+      "image_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-193208_un-robot-de-limpieza-en-una-es\\escena_1.png",
+      "voice_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-193208_un-robot-de-limpieza-en-una-es\\voz_1.wav",
+      "sfx_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-193208_un-robot-de-limpieza-en-una-es\\ambiente_1.wav",
+      "errors": []
+    },
+    {
+      "index": 2,
+      "title": "Curiosidad",
+      "narration": "Curioso, RoboLimpieza da un paso más cerca de la planta. La planta parece moverse ligeramente, como si estuviera llamando a alguien. RoboLimpieza percibe un leve olor floral que le resulta familiar y a la vez extraño. Siente una fría y suave brisa que procede de la planta. El robot percibe una sensación de calidez en la superficie de la planta, como si estuviera respirando su propio aire. La visión de RoboLimpieza revela que la planta crece en forma de flor y hojas, y se nota una vida que no tiene en otros seres vivos conocidos. Es como una nueva experiencia para el robot, llenando su estación espacial con un misterio desconocido. Los sonidos de la estación, las vibraciones del sistema de RoboLimpieza, ahora se ven interrumpidos por el susurro suave de la planta.",
+      "image_prompt": "RoboLimpieza cerca de la planta en estación espacial",
+      "ambience": "suspenso",
+      "sfx_prompt": "Crisping de hojas, fuerte viento",
+      "characters": [
+        "RoboLimpieza"
+      ],
+      "image_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-193208_un-robot-de-limpieza-en-una-es\\escena_2.png",
+      "voice_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-193208_un-robot-de-limpieza-en-una-es\\voz_2.wav",
+      "sfx_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-193208_un-robot-de-limpieza-en-una-es\\ambiente_2.wav",
+      "errors": []
+    },
+    {
+      "index": 3,
+      "title": "Incógnita",
+      "narration": "Con la curiosidad a flor de piel, RoboLimpieza se acerca aún más y llega a una conclusión: la planta no es de este planeta. Es como si fuera de otro universo. Curiosamente, la planta no produce los sonidos de su ambiente conocido. No hay vibraciones ni el sonido del sistema de limpieza. Sólo el susurro suave y constante de la planta, que parece estar en un diálogo silencioso con el robot. RoboLimpieza percibe una extraña presión en su piel, como si la planta estuviera tomando pequeños tragos de su energía. Las vibraciones del robot se mezclan con el susurro de la planta, creando un misterio interno en la estación espacial. RoboLimpieza nota que los colores de la estación cambian ligeramente, pareciendo reflejar la luz de la planta, como si este ser vivo fuera una nueva estrella en su constelación.",
+      "image_prompt": "RoboLimpieza mira a la planta con expresión de sorpresa en estación espacial",
+      "ambience": "suspenso",
+      "sfx_prompt": "Ruido de insectos nocturnos",
+      "characters": [
+        "RoboLimpieza"
+      ],
+      "image_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-193208_un-robot-de-limpieza-en-una-es\\escena_3.png",
+      "voice_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-193208_un-robot-de-limpieza-en-una-es\\voz_3.wav",
+      "sfx_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-193208_un-robot-de-limpieza-en-una-es\\ambiente_3.wav",
+      "errors": []
+    },
+    {
+      "index": 4,
+      "title": "Invasión de la Tierra",
+      "narration": "RoboLimpieza percibe un crecimiento inesperado en la planta, que no es tan solo un simple objeto de curiosidad, sino un ser vivo que parece tener una vida propia. La planta se eleva ligeramente del suelo, sus hojas ahora son más brillantes y vibrantes, mientras que sus raíces se extienden más allá de su superficie original. RoboLimpieza, a su vez, se siente una presencia cambiante, una presión que parece no ser solo de la planta, sino también su propia energía que absorbe en forma de energía de la estación. El susurro de la planta se vuelve más fuerte y constante, haciendo que las vibraciones del robot se sientan más intensas. La estación en general parece estar vibrando con una nueva energía, que RoboLimpieza ahora percibe como un latido en su interior. Las paredes de la estación inician un sonido de suavizamiento, como si las mismas estuvieran respirando, a medida que la planta y el robot se funden en un misterioso equilibrio.",
+      "image_prompt": "RoboLimpieza y planta creciendo y expandiéndose en estación espacial",
+      "ambience": "espacio",
+      "sfx_prompt": "Crisping de hojas, fuerte viento, susurro de la planta",
+      "characters": [
+        "RoboLimpieza"
+      ],
+      "image_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-193208_un-robot-de-limpieza-en-una-es\\escena_4.png",
+      "voice_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-193208_un-robot-de-limpieza-en-una-es\\voz_4.wav",
+      "sfx_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-193208_un-robot-de-limpieza-en-una-es\\ambiente_4.wav",
+      "errors": []
+    },
+    {
+      "index": 5,
+      "title": "Resolución",
+      "narration": "El susurro de la planta se vuelve un murmullo constante en la estación espacial, mientras que RoboLimpieza percibe su propia energía fluyendo en un ritmo sincronizado con el de la planta. Las paredes de la estación comienzan a temblar suavemente, como si estuvieran respirando al unísono con la planta. Los equipos de mantenimiento observan atónitos la estación, que ahora parece un escenario de magia, y el equipo de seguridad, que siempre ha estado listo en caso de emergencia, se sorprende al ver que la amenaza ha sido neutralizada. RoboLimpieza, ahora consciente de la presencia de vida en la estación, se siente algo inquieto y protector, mientras la planta y el robot comparten un vínculo misterioso, que los rodea en un círculo de luz intermitente que parece no dejar paso a la nada.",
+      "image_prompt": "RoboLimpieza y planta en estación espacial, en un momento de amistad",
+      "ambience": "alegre",
+      "sfx_prompt": "Susurro de la planta, fuerte viento",
+      "characters": [
+        "RoboLimpieza"
+      ],
+      "image_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-193208_un-robot-de-limpieza-en-una-es\\escena_5.png",
+      "voice_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-193208_un-robot-de-limpieza-en-una-es\\voz_5.wav",
+      "sfx_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-193208_un-robot-de-limpieza-en-una-es\\ambiente_5.wav",
+      "errors": []
+    }
+  ],
+  "reference_image": null
+}

@@ -1,0 +1,93 @@
+{
+  "idea": "Un faro abandonado enciende su luz cada noche sin que nadie suba",
+  "genre": "terror",
+  "title": "El Faro Único",
+  "setting": "a desolate lighthouse in a stormy night on a deserted island",
+  "style": "dark gothic illustration, muted desaturated colors, dramatic shadows, eerie atmosphere",
+  "characters": [
+    {
+      "name": "Lucas",
+      "role": "observador",
+      "visual": "a lone and introspective man",
+      "personality": "aloof and thoughtful"
+    }
+  ],
+  "scenes": [
+    {
+      "index": 1,
+      "title": "La Primera Noche",
+      "narration": "En la oscuridad del océano, el faro Único prendía su luz una vez más. Lucas, aquel que había sido el único en verlo, se quedó quieto, no atento a las olas que rugían, sino al susurro constante del viento que parecía hablarle al oído. Sintió cómo el frío del mar se adentraba en sus huesos, forzándolo a que permaneciera quieto, mientras el cielo se teñía de un rojo tembloroso que parecía una mirada inquisidora del firmamento. La oscuridad era absoluta, pero el faro Único parecía bramar una advertencia, un susurro que resonaba en su mente.",
+      "image_prompt": "deserted lighthouse, stormy night, ocean waves",
+      "ambience": "mar",
+      "sfx_prompt": "storm, distant foghorn",
+      "characters": [
+        "Lucas"
+      ],
+      "image_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-192634_un-faro-abandonado-enciende-su\\escena_1.png",
+      "voice_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-192634_un-faro-abandonado-enciende-su\\voz_1.wav",
+      "sfx_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-192634_un-faro-abandonado-enciende-su\\ambiente_1.wav",
+      "errors": []
+    },
+    {
+      "index": 2,
+      "title": "La Segunda Noche",
+      "narration": "Con el tiempo, Lucas descubrió que siempre llegaba la luz del faro, sin importar el tiempo que pasaba. La tormenta se hacía más furiosa, como si el faro no quisiera que nadie lo viera. La marea creaba olas que se elevaron hasta el borde del faro, amenazando con romperse en miles de fragmentos al caer de nuevo al mar. Lucas notó cómo el viento rugía como un rugido profundo que parecía venir desde las profundidades del océano, mientras el rojo tembloroso del cielo parecía un ojo inquisitivo que lo observaba. La brisa que penetraba en su piel le recordaba la sensación de la arena que se pegaba a su piel, aunque nunca lo tocaba. Alguien estaba allí, esperando a que alguien lo viera, y Lucas no estaba dispuesto a ser ese alguien.",
+      "image_prompt": "foggy lighthouse, raging storm",
+      "ambience": "tormenta",
+      "sfx_prompt": "thunder, rain",
+      "characters": [
+        "Lucas"
+      ],
+      "image_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-192634_un-faro-abandonado-enciende-su\\escena_2.png",
+      "voice_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-192634_un-faro-abandonado-enciende-su\\voz_2.wav",
+      "sfx_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-192634_un-faro-abandonado-enciende-su\\ambiente_2.wav",
+      "errors": []
+    },
+    {
+      "index": 3,
+      "title": "La Tercera Noche",
+      "narration": "Luz roja temblorosa se deslizaba a través de los cristales rotos, que estaban cubiertos de algas y arena. El viento rugía con un tono sibilante, como si fuese una marea en calma, mientras el agua rugía con furia contra el faro. Lucas observaba, su mirada llena de curiosidad y misterio, su mente en constante actividad. La brisa, ahora más fría y tenaz, le acariciaba la piel, recordándole la sensación de la arena en el aire del desierto. Un eco de algo parecido a un susurro le llegó a los oídos, apenas audible entre el rugido del viento. Se acurrucó en su escondite, sintiendo el mar temblar bajo él, mientras el faro parecía esperar, como si esperara a alguien que no sabía quién era.",
+      "image_prompt": "foggy lighthouse, intense storm",
+      "ambience": "mar",
+      "sfx_prompt": "wind, rain",
+      "characters": [
+        "Lucas"
+      ],
+      "image_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-192634_un-faro-abandonado-enciende-su\\escena_3.png",
+      "voice_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-192634_un-faro-abandonado-enciende-su\\voz_3.wav",
+      "sfx_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-192634_un-faro-abandonado-enciende-su\\ambiente_3.wav",
+      "errors": []
+    },
+    {
+      "index": 4,
+      "title": "La Cuarta Noche",
+      "narration": "A la quinta noche, Lucas comenzó a percibir algo más que el viento rugiente. Oyó un susurro que parecía proceder de las profundidades del faro, más fuerte y distante de lo que había escuchado antes. Lucas se apoyó en una de las columnas de concreto, sintiendo una presión constante que parecía emanar del interior del edificio. En su mente, cada rincón del faro parecía vibrar, como si estuviera lleno de vida secreta. La luz del faro, ahora más intensa y roja, parecía guiarlo a través de sus pasos hacia el corazón del faro, donde las sombras eran más densas y la quietud del viento era casi palpable.",
+      "image_prompt": "foggy lighthouse, intense storm, mysterious presence",
+      "ambience": "noche",
+      "sfx_prompt": "wind, rain, whisper",
+      "characters": [
+        "Lucas"
+      ],
+      "image_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-192634_un-faro-abandonado-enciende-su\\escena_4.png",
+      "voice_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-192634_un-faro-abandonado-enciende-su\\voz_4.wav",
+      "sfx_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-192634_un-faro-abandonado-enciende-su\\ambiente_4.wav",
+      "errors": []
+    },
+    {
+      "index": 5,
+      "title": "La Quinta Noche",
+      "narration": "Lucas no pudo evitar acercarse más. La luz del faro se movía, guiando sus pasos en medio de la tormenta. Al finalizar la noche, la luz desapareció, dejando a Lucas a solas en la oscuridad, con una sensación de haber visto demasiado.",
+      "image_prompt": "foggy lighthouse, intense storm, mysterious presence, dark silhouette",
+      "ambience": "tormenta",
+      "sfx_prompt": "wind, rain, silence",
+      "characters": [
+        "Lucas"
+      ],
+      "image_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-192634_un-faro-abandonado-enciende-su\\escena_5.png",
+      "voice_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-192634_un-faro-abandonado-enciende-su\\voz_5.wav",
+      "sfx_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-192634_un-faro-abandonado-enciende-su\\ambiente_5.wav",
+      "errors": []
+    }
+  ],
+  "reference_image": null
+}

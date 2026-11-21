@@ -1,0 +1,93 @@
+{
+  "idea": "Una niña descubre que su sombra cobra vida por las noches",
+  "genre": "fantasía",
+  "title": "La Sombra de Elyna",
+  "setting": "Aventura en el bosque",
+  "style": "storybook watercolor illustration, soft magical light, vibrant colors",
+  "characters": [
+    {
+      "name": "Elyna",
+      "role": "niña descubierta",
+      "visual": "niña con ojos grandes y sonrisa dulce",
+      "personality": "curiosa, optimista"
+    }
+  ],
+  "scenes": [
+    {
+      "index": 1,
+      "title": "Descubrimiento",
+      "narration": "El viento susurraba entre las ramas del bosque mientras Elyna exploraba con paso firme. Observó insectos pequeños volar y pájaros que repiqueteaban en los árboles cercanos. El aroma de la tierra húmeda y el olor floral a hojas secas la llenaban de una sensación de inocente aventura. Sentía que cada paso en el bosque era un juego de sigilo, mientras la sombra de su reflejo la seguía en el camino, siempre a su lado, un compañero misterioso.",
+      "image_prompt": "niña explorando bosque",
+      "ambience": "mar",
+      "sfx_prompt": "susurros del bosque",
+      "characters": [
+        "Elyna"
+      ],
+      "image_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-184155_una-ni-a-descubre-que-su-sombr\\escena_1.png",
+      "voice_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-184155_una-ni-a-descubre-que-su-sombr\\voz_1.wav",
+      "sfx_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-184155_una-ni-a-descubre-que-su-sombr\\ambiente_1.wav",
+      "errors": []
+    },
+    {
+      "index": 2,
+      "title": "El Viaje",
+      "narration": "La luz del sol caía en un par de lágrimas de agua que rodaban por las hojas más altas. Elyna pudo ver un pequeño río que se desdibujaba entre los arbustos. Sintió el viento sutilmente mover sus cabellos mientras caminaba, y sus oídos capturaron el canto de pájaros y el susurro del bosque en calma. Sentía el suelo firme y fresco bajo sus pies y la humedad que se filtraba desde las hojas más jóvenes. La sombra de su reflejo se amplió y se movió alrededor de ella, un compañero misterioso y encantador.",
+      "image_prompt": "claro con luces doradas",
+      "ambience": "cueva",
+      "sfx_prompt": "chispa de magia",
+      "characters": [
+        "Elyna"
+      ],
+      "image_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-184155_una-ni-a-descubre-que-su-sombr\\escena_2.png",
+      "voice_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-184155_una-ni-a-descubre-que-su-sombr\\voz_2.wav",
+      "sfx_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-184155_una-ni-a-descubre-que-su-sombr\\ambiente_2.wav",
+      "errors": []
+    },
+    {
+      "index": 3,
+      "title": "El Desarrollo",
+      "narration": "Las sombras se agruparon en forma de figuras, la sombra de Elyna se transformó en una figura femenina que parecía vestida con vestiduras de seda marrón. Elyna sintió una extraña curiosidad, como si estuviera ante un antecesor. Oyó el susurro de pájaros en el cielo mientras veía hojas y pequeños animales moverse en la bruma que emergía del bosque. La humedad en la piel de Elyna la hizo sentirse ligera, como si el aire la llevara al encuentro misterioso. La figura femenina de su sombra brillaba con un resplandor que iluminaba la figura de Elyna, dando una sensación de paz que la hizo sentirse a salvo en ese lugar desconocido.",
+      "image_prompt": "figuras de sombras formando figura femenina",
+      "ambience": "mar",
+      "sfx_prompt": "susurros de sombras",
+      "characters": [
+        "Elyna"
+      ],
+      "image_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-184155_una-ni-a-descubre-que-su-sombr\\escena_3.png",
+      "voice_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-184155_una-ni-a-descubre-que-su-sombr\\voz_3.wav",
+      "sfx_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-184155_una-ni-a-descubre-que-su-sombr\\ambiente_3.wav",
+      "errors": []
+    },
+    {
+      "index": 4,
+      "title": "El Clímax",
+      "narration": "La figura femenina de la sombra de Elyna se movió ligeramente, susurrando con una voz suave y profunda. Elyna sintió la dulce y suave brisa del bosque a través de sus manos, mientras el sonido de su respiración se mezclaba con el susurro de pájaros y la susurrante voz de la sombra. Algunas hojas caídas en el suelo chirriaron suavemente bajo sus pies, mientras Elyna percibía un ligero frío en la bruma. La figura femenina de su sombra brillaba con una luz suave y cálida, ofreciendo un resplandor que invitaba a Elyna a profundizar en su descubrimiento. Elyna sintió una profunda paz, como si estuviera rodeada por un manto protector. La figura femenina sonrió ampliamente, suspiro y volvió a susurrar: 'Tu verdadera forma es la luz que llevas dentro, Elyna. Descubre tu esencia, y tu poder se multiplicará'. Elyna sintió una emoción que no conocía, una emoción de poder y confianza que la llenó de alegría y curiosidad por explorar su potencial.'",
+      "image_prompt": "Elyna y la figura femenina hablando",
+      "ambience": "bosque",
+      "sfx_prompt": "susurros de sombras",
+      "characters": [
+        "Elyna"
+      ],
+      "image_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-184155_una-ni-a-descubre-que-su-sombr\\escena_4.png",
+      "voice_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-184155_una-ni-a-descubre-que-su-sombr\\voz_4.wav",
+      "sfx_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-184155_una-ni-a-descubre-que-su-sombr\\ambiente_4.wav",
+      "errors": []
+    },
+    {
+      "index": 5,
+      "title": "El Desenlace",
+      "narration": "Elyna aprendió a manejar su nueva forma de vida y aprendió a proteger a las sombras. Vivió una vida llena de misterios y aventuras. Aprendió a escuchar los susurros del viento, a percibir el eco de los pájaros en el bosque, y a sentir la brisa cálida que se abría paso entre los árboles. Susurró su nombre a las sombras que la rodeaban, convirtiéndolas en compañeras valiosas en su viaje. Con la luz que llevaba dentro, Elyna exploraba el bosque a cada rato, alimentándose de la belleza que los rodeaba. Con el tiempo, la amistad entre Elyna y las sombras fue creciendo hasta convertirse en una hermandad inigualable, fundada sobre el amor, la confianza y la paz. De esta manera, Elyna y sus compañeras de sombra vivían una vida llena de aventuras y amor.",
+      "image_prompt": "Elyna y la figura femenina en un claro",
+      "ambience": "mar",
+      "sfx_prompt": "susurros de la magia",
+      "characters": [
+        "Elyna"
+      ],
+      "image_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-184155_una-ni-a-descubre-que-su-sombr\\escena_5.png",
+      "voice_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-184155_una-ni-a-descubre-que-su-sombr\\voz_5.wav",
+      "sfx_path": "C:\\Users\\gilca\\Trabajos\\storybook\\outputs\\20261120-184155_una-ni-a-descubre-que-su-sombr\\ambiente_5.wav",
+      "errors": []
+    }
+  ],
+  "reference_image": null
+}

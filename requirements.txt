@@ -1,0 +1,21 @@
+# Núcleo
+numpy>=1.26
+scipy>=1.11
+pillow>=10.0
+pyyaml>=6.0
+requests>=2.31
+psutil>=5.9
+streamlit>=1.40
+# Imagen (instala antes torch con CUDA: ver README)
+torch>=2.6           # diffusers recientes requieren torch.accelerator (2.6+)
+diffusers>=0.30
+transformers>=4.44
+accelerate>=0.33
+peft>=0.12
+safetensors>=0.4
+huggingface_hub>=0.24
+# Voz
+piper-tts>=1.2
+pyttsx3>=2.90
+# Pruebas
+pytest>=8.0
